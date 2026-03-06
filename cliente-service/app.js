@@ -19,4 +19,4 @@ app.use('/clientes', clienteRoutes);
     } catch (err) {
         console.error('Erro ao iniciar o Cliente Service:', err);
     }
-});
+})();;

@@ -18,4 +18,4 @@ app.use('/pedidos', pedidoRoutes);
     } catch (err) {
         console.error('Erro ao iniciar o Pedido Service:', err);
     }
-});
+})();;
