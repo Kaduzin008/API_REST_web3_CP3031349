@@ -5,7 +5,7 @@ Este repositório contém uma aplicação baseada em microserviços desenvolvida
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Node.js** (Ambiente de execução)
 * **Express** (Framework web)
 * **Sequelize** (ORM para conexão com banco de dados)
